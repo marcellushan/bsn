@@ -54,4 +54,5 @@ fabric.properties
 
 application/config/database.php
 application/config/config.php
+assets/uploads
 

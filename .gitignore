@@ -10,6 +10,7 @@
 .idea/dictionaries
 .idea/vcs.xml
 .idea/jsLibraryMappings.xml
+.idea/misc.xml
 
 # Sensitive or high-churn files:
 .idea/dataSources.ids
@@ -54,5 +55,6 @@ fabric.properties
 
 application/config/database.php
 application/config/config.php
+assets/uploads
 
 
